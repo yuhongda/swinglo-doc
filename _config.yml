@@ -1,0 +1,5 @@
+title: Swinglo
+description: A soundtrack for every part of your day.
+baseurl: "/swinglo-doc"
+url: "https://yuhongda.github.io"
+exclude: [README.md]
